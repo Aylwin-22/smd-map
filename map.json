@@ -20,7 +20,7 @@
          "height":23,
          "id":20,
          "name":"boden",
-         "opacity":0.31,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":27,
