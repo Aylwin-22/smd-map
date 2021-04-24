@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/ref-it.github.io\/Ref-IT-VereinspraesentationTUI\/Messe_UR.json#Eingang_SMD"
+                 "value":"..\/Ref-IT-VereinspraesentationTUI\/Messe_UR.json#Eingang_SMD"
                 }],
          "type":"tilelayer",
          "visible":true,
